@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Adding_Shapes_To_GUI" />
+        <module name="Creating_Multiple_Scenes" />
+        <module name="My1GUI" />
+        <module name="My2GUI" />
+        <module name="Media_View_Node" />
+        <module name="HandlingEvents_Creating_Event_Handler_token" />
+        <module name="CSS_File_In_JAVAFX" />
+        <module name="Animation" />
+        <module name="ProgressBar" />
+        <module name="GUI_3_Changing_Title_logo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Adding_Shapes_To_GUI" target="17" />
+      <module name="Animation" target="17" />
+      <module name="Creating_Multiple_Scenes" target="17" />
+      <module name="CSS_File_In_JAVAFX" target="17" />
+      <module name="GUI_3_Changing_Title_logo" target="17" />
+      <module name="HandlingEvents_Creating_Event_Handler_token" target="17" />
+      <module name="Media_View_Node" target="17" />
+      <module name="My1GUI" target="17" />
+      <module name="My2GUI" target="17" />
+      <module name="ProgressBar" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

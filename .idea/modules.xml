@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adding_Shapes_To_GUI/Adding_Shapes_To_GUI.iml" filepath="$PROJECT_DIR$/Adding_Shapes_To_GUI/Adding_Shapes_To_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Animation/Animation.iml" filepath="$PROJECT_DIR$/Animation/Animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSS_File_In_JAVAFX/CSS_File_In_JAVAFX.iml" filepath="$PROJECT_DIR$/CSS_File_In_JAVAFX/CSS_File_In_JAVAFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creating_Multiple_Scenes/Creating_Multiple_Scenes.iml" filepath="$PROJECT_DIR$/Creating_Multiple_Scenes/Creating_Multiple_Scenes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI_3_Changing_Title_logo/GUI_3_Changing_Title_logo.iml" filepath="$PROJECT_DIR$/GUI_3_Changing_Title_logo/GUI_3_Changing_Title_logo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlingEvents__Creating_Event_Handler_to _move_a_token/HandlingEvents_Creating_Event_Handler_token.iml" filepath="$PROJECT_DIR$/HandlingEvents__Creating_Event_Handler_to _move_a_token/HandlingEvents_Creating_Event_Handler_token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MY_GUI_Programs.iml" filepath="$PROJECT_DIR$/.idea/MY_GUI_Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Media_View_Node/Media_View_Node.iml" filepath="$PROJECT_DIR$/Media_View_Node/Media_View_Node.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My1GUI/My1GUI.iml" filepath="$PROJECT_DIR$/My1GUI/My1GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My2GUI/My2GUI.iml" filepath="$PROJECT_DIR$/My2GUI/My2GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressBar/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar/ProgressBar.iml" />
+    </modules>
+  </component>
+</project>

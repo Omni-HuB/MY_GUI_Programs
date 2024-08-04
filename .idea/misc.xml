@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/My1GUI/pom.xml" />
+        <option value="$PROJECT_DIR$/My2GUI/pom.xml" />
+        <option value="$PROJECT_DIR$/Animation/pom.xml" />
+        <option value="$PROJECT_DIR$/ProgressBar/pom.xml" />
+        <option value="$PROJECT_DIR$/Media_View_Node/pom.xml" />
+        <option value="$PROJECT_DIR$/CSS_File_In_JAVAFX/pom.xml" />
+        <option value="$PROJECT_DIR$/Adding_Shapes_To_GUI/pom.xml" />
+        <option value="$PROJECT_DIR$/Creating_Multiple_Scenes/pom.xml" />
+        <option value="$PROJECT_DIR$/GUI_3_Changing_Title_logo/pom.xml" />
+        <option value="$PROJECT_DIR$/HandlingEvents__Creating_Event_Handler_to _move_a_token/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK" />
+</project>

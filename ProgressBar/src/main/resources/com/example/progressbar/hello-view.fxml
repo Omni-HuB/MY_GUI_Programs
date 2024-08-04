@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <ImageView fitHeight="400.0" fitWidth="606.0" layoutX="-3.0" layoutY="-1.0" pickOnBounds="true" preserveRatio="true" />
+   <ProgressBar fx:id="progressBar" layoutX="89.0" layoutY="302.0" prefHeight="33.0" prefWidth="436.0" progress="0.0" />
+   <Label fx:id="progressBarLabel" alignment="CENTER" layoutX="139.0" layoutY="303.0" prefHeight="31.0" prefWidth="322.0" text="Label" textAlignment="CENTER" wrapText="true">
+      <font>
+         <Font name="Bodoni MT Italic" size="25.0" />
+      </font>
+   </Label>
+</AnchorPane>
